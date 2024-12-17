@@ -1,1 +1,5 @@
 impacket
+xlsxwriter
+jinja2
+sectools
+netifaces
